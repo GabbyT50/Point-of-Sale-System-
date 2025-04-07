@@ -16,16 +16,16 @@ o	"stock" → The available quantity.
 We are going to use apples for example. 
 
 This means:
-•	An Apple costs $100.00.
-•	There are 10 Apples in stock.
++	An Apple costs $100.00.
++	There are 10 Apples in stock.
 The shopping_cart dictionary keeps track of:
-•	Products the user has selected.
-•	The quantity of each product.
++	Products the user has selected.
++	The quantity of each product.
 The function display_product prints all available products, their prices, and remaining stock.
 
 How It Works
-•	It loops through the product_catalog and displays each item.
-•	Uses an f-string to format the output.
++	It loops through the product_catalog and displays each item.
++	Uses an f-string to format the output.
 The add to cart function allows the user to add products to their shopping cart.
 
 How It Works
@@ -87,7 +87,7 @@ Provide options: It shows a menu with different choices for the user to select f
 
 In summary, this code manages a shopping cart system by allowing users to add, remove, and view products, handle checkout and payments, alert for low stock, and provide a user-friendly interface through a main menu.
 
-# What are the assumptions or limitations regarding the code operation ? 
+# What are the assumptions and limitations regarding the code operation ? 
 
 ## Assumptions:  
 
