@@ -4,7 +4,7 @@ This Point of Sale system represents a simple console-based shopping cart system
 + Authors: McEna Blackwood and Gabrielle Lewis
 + Date Created: April 1, 2025 
 + Course: ITT103 
-+ GitHub Public URL to Code: https://github.com/GabbyT50/Point-of-Sale-System-/blob/main/README.md
++ GitHub Public URL to Code: https:https://github.com/GabbyT50/Point-of-Sale-System-.git
 
 # How to run the system 
 
