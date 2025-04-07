@@ -9,10 +9,10 @@ This Point of Sale system represents a simple console-based shopping cart system
 # How to run the system 
 
 The product_catalog is a dictionary where:
-•	Keys → Product names (e.g., "Apple", "1 L Pepsi")
-•	Values → Another dictionary containing:
-o	"price" → The cost of the product.
-o	"stock" → The available quantity.
++	Keys → Product names (e.g., "Apple", "1 L Pepsi")
++	Values → Another dictionary containing:
++ "price" → The cost of the product.
++	"stock" → The available quantity.
 We are going to use apples for example. 
 
 This means:
