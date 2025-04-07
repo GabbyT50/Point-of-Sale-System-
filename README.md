@@ -38,12 +38,15 @@ How It Works
 
 Valid user Input
 Lets say we want to add 3 apples to our shopping cart. 
-•	"Apple" exists in product_catalog.
-•	The current stock (10) is greater than or equal to 3.
-•	shopping_cart is updated with 3 apples 
++	"Apple" exists in product_catalog.
++	The current stock (10) is greater than or equal to 3.
++ shopping_cart is updated with 3 apples
+  
 What will also happen is that the stock for apples will also reduce. 
 The output of this function would be 3 apples added to the shopping cart. 
+
 Let’s use an invalid output. 
+
 Let’s say we enter orange into our system. Orange is not in our product catalog. Because orange is not in our product catalog the system will output product not found. Please enter a valid product name. 
 Our next invalid input would be insufficient stock. 
 Let’s say a customer wants 8 toothpaste but there is only 4 in stock. The user will get an output saying insufficient stock for Colgate Toothpaste. Available Quantity: 4
